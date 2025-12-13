@@ -4,7 +4,7 @@
 
 - **Name:** <Your Name>
 - **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://xxqt.github.io/REPO/>
+- **Live Portfolio (GitHub Pages):** https://xxqt.github.io
 
 ---
 
@@ -122,5 +122,6 @@
 ---
 
 <sub>Last updated: <!-- yyyy-mm-dd --> </sub>
+
 
 
