@@ -1,0 +1,5 @@
+# Lab - 6 Reflection
+> Build a Quiz game that requests trivia from a web server & maintains a shared leaderboard for all players. Learn **Fetch API to build a REST Client & JS Modules** to better organize an App's codebase.
+
+## My reflection
+This lab introduced me to how the Fetch API is used to send requests to REST endpoints and build distributed applications using REST client architecture. I also practiced writing asynchronous JavaScript with async/await functions and organizing my code with JavaScript modules through import and export statements. The lab showed how classless CSS libraries can style a webpage without using class names, making the design process simpler. I also learned how to schedule and clear timed events, and how to use the Document Object Model (DOM) to build a Single Page Application (SPA).
